@@ -2,8 +2,11 @@
 <h3 align="center">Visionary Blockchain Engineer | 7+ Years in Blockchain & Web3 Development | Expert in EVM based chain, Hyperledger Fabric, zk-proofs, zkSNARK, Solana | Proficient in Solidity, Golang, JavaScript</h3>
 
 ✅ Over seven years of Blockchain Development Experience. 
+
 ✅ starting from late 2017 I have been designing and build ICOs, crypto wallets, crypto payment gateway NFTs, NFT marketplaces, DeFi, DEX, cross-chain bridges etc.
+
 ✅ starting from late 2018 I have been designing and developing may application on Hyperledger Fabric like telecom solutions, record managment system, issuing birth-death certificates.
+
 ✅ Expert back-end Developer proficient in NodeJs, TypeScript, Golang.
 
 
