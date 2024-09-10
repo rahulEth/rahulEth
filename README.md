@@ -35,7 +35,7 @@ Technical Skills: Golang | JavaScript | TypeScript | Solidity | PostgreSQL | MyS
         alt="C++" data-canonical-src="https://img.shields.io/badge/C++-%2300599C.svg?&amp;style=for-the-badge&amp;logo=C++&amp;logoColor=white%22" style="max-width: 100%;"></a>
 </p>
 
-<div class="markdown-heading" dir="auto">
+<!-- <div class="markdown-heading" dir="auto">
     <h5 class="heading-element" dir="auto">Databases 
 </h5>
     <a id="user-content-databases-i-use" class="anchor" aria-label="Permalink: Databases" href="#databases-i-use">
@@ -80,10 +80,10 @@ Technical Skills: Golang | JavaScript | TypeScript | Solidity | PostgreSQL | MyS
         alt="Jira" data-canonical-src="https://img.shields.io/badge/Jira-%230052CC.svg?&amp;style=for-the-badge&amp;logo=Jira&amp;logoColor=white%22" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5fcd42d209e4eb83bc3e3fd6e6139474b0815338d7ffacefdb21a4b7695654c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d2532334643433632342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e7578266c6f676f436f6c6f723d7768697465253232"><img src="https://camo.githubusercontent.com/b5fcd42d209e4eb83bc3e3fd6e6139474b0815338d7ffacefdb21a4b7695654c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d2532334643433632342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e7578266c6f676f436f6c6f723d7768697465253232"
         alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-%23FCC624.svg?&amp;style=for-the-badge&amp;logo=Linux&amp;logoColor=white%22" style="max-width: 100%;"></a>
-</p>
+</p> -->
 
-<p align="center" dir="auto"> 
+<!-- <p align="center" dir="auto"> 
   Visitor count<br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4604836dce0ca797231982f2bc0b8a4994f92389aa05d488f1b11dca7e83af6b/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f636d6a61677461702f636f756e742e737667"><img src="https://camo.githubusercontent.com/4604836dce0ca797231982f2bc0b8a4994f92389aa05d488f1b11dca7e83af6b/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f636d6a61677461702f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/cmjagtap/count.svg" style="max-width: 100%;"></a>
-</p>
+</p> -->
 
