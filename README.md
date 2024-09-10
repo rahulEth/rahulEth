@@ -5,7 +5,7 @@
 
 ✅ starting from late 2017 I have been designing and build ICOs, crypto wallets, crypto payment gateway NFTs, NFT marketplaces, DeFi, DEX, cross-chain bridges etc.
 
-✅ starting from late 2018 I have been designing and developing may application on Hyperledger Fabric like telecom solutions, record managment system, issuing birth-death certificates.
+✅ starting from late 2018 I have been designing and developing applications on Hyperledger Fabric like telecom solutions, record managment system, issuing birth-death certificates, supply chain.
 
 ✅ Expert back-end Developer proficient in NodeJs, TypeScript, Golang.
 
